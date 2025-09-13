@@ -6,6 +6,9 @@ This repository documents an academic project that improves the **HMAX model**, 
 By integrating an evolutionary algorithm, the project demonstrates a more intelligent and biologically plausible approach to identify the most informative features, resulting in a **more robust and efficient model**.
 
 ---
+<p align="center">
+  <img src="report/hmax.jpg" alt="HMAX Model" />
+</p>
 
 ## Repository Contents
 
