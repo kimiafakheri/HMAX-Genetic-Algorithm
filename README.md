@@ -7,8 +7,9 @@ By integrating an evolutionary algorithm, the project demonstrates a more intell
 
 ---
 <p align="center">
-  <img src="report/hmax.jpg" alt="HMAX Model" />
+  <img src="report/hmax.jpg" alt="HMAX Model" width="600" />
 </p>
+
 
 ## Repository Contents
 
